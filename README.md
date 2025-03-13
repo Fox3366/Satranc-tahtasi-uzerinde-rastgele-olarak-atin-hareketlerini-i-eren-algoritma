@@ -18,6 +18,7 @@ Oyun sonunda kaç adet denemede çıkışı bulduğunu ve de denemelerdeki matri
 Proje matris konusunda algoritmayı geliştirmeyi amaçlamaktadır.
 
 English:
+
 "Knight's Random Movement on a Chessboard" Algorithm
 
 This is a project for the first semester of the first year in Software Engineering, focusing on matrices.
