@@ -1,4 +1,4 @@
-# Satranc-tahtasi-uzerinde-rastgele-olarak-at-n-hareketlerini-i-eren-algoritma
+# Satranc-tahtasi-uzerinde-rastgele-olarak-atin-hareketlerini-veren-algoritma
 Yazılım müh. 1.sınıf 1.dönem matrisler konusu ödevim
 
 Başlangıç olarak kullanıcıdan değer alarak NxN lik bir matris oluşturulur.
